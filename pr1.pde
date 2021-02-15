@@ -139,6 +139,9 @@ void finishRecord(){
     }
     winGif.finish();
     recording = false;
+    goalSound.stop();
+    goalSound = new SoundFile(this, "mundial-ronaldinho-soccer-64.wav");
+    goalSound.play();
   }
 }
 
