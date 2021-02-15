@@ -12,6 +12,9 @@ There are 3 files, a main class (pr1.pde) which is both the view and the control
 * show() this is the view method, it displays each thing on the screen.
 * finishRecord() this method finishes the recording of the gif and plays a sound when a player wins the match.
 
+Finally to move the paddles use 'w' and 's' for the left player and 'o' and 'l' for the right player. 
+
+
 ## Choices
 
 There are some bugs I haven't fixed, the way the paddles work is not great, I didn't fully understand how the methods surrounding keyboard inputs work, so I wasn't able to fix it,  the same can be said about the score not being centered. Aside from that the project was very straight forward.
