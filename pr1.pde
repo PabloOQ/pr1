@@ -35,12 +35,10 @@ void setup(){
 }
 
 void draw(){
-  if (!stopRecording){
-    gifMethod();
-    logic();
-    show();
-    finishRecord();
-  }
+  gifMethod();
+  logic();
+  show();
+  finishRecord();
 }
 
 void gifMethod(){
@@ -142,6 +140,7 @@ void finishRecord(){
     goalSound.stop();
     goalSound = new SoundFile(this, "mundial-ronaldinho-soccer-64.wav");
     goalSound.play();
+    noLoop();
   }
 }
 
