@@ -21,7 +21,7 @@ There are some bugs I haven't fixed, the way the paddles work is not great, I di
 
 ## References
 
-The notes uploaded in the virtual classroom made by the teachers - Modesto and Daniel
+The guide uploaded in the virtual classroom made by the teachers - Modesto and Daniel
 
 ## Final view
 
