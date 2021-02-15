@@ -20,6 +20,6 @@ There are some bugs I haven't fixed, the way the paddles work is not great, I di
 
 The notes uploaded in the virtual classroom made by the teachers - Modesto and Daniel
 
-## 
+## Final view
 
 ![Gif showing how it works](https://github.com/PabloOQ/pr1-CIU/blob/main/winner.gif)
